@@ -1,5 +1,7 @@
 # ROS wrapper for ORB-SLAM3
 
+A fork of [https://github.com/thien94/orb_slam3_ros_wrapper](https://github.com/thien94/orb_slam3_ros_wrapper) that changes the default instilation directory of ORB-SLAM3
+
 A ROS wrapper for [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3). The main idea is to use the ORB-SLAM3 as a standalone library and interface with it instead of putting everything together. For that, you can check out [this package](https://github.com/thien94/orb_slam_3_ros).
 
 Tested with ORB-SLAM3 V1.0, primarily on Ubuntu 20.04.
