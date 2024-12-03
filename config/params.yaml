@@ -1,0 +1,63 @@
+Camera.RGB: 1
+Camera.fps: 30
+Camera.hight: 480
+Camera.type: pinhole
+Camera.width: 640
+Camera1.cx: 323.82667870448614
+Camera1.cy: 237.8877784572106
+Camera1.fx: 323.91718685231507
+Camera1.fy: 353.82692724696267
+Camera1.k1: -0.0695449368971475
+Camera1.k2: 0.19274694447464447
+Camera1.k3: -0.1416734346630144
+Camera1.p1: 0.002623611636993731
+Camera1.p2: -0.011984712255799737
+Camera2.cx: 332.31013128508005
+Camera2.cy: 240.98322981226158
+Camera2.fx: 332.9978130344629
+Camera2.fy: 281.9072501044151
+Camera2.k1: -0.2515096970874141
+Camera2.k2: 0.30454784863595974
+Camera2.k3: -0.17656084580085601
+Camera2.p1: 0.0034289856070635065
+Camera2.p2: -0.02872872983792805
+File.version: '1.0'
+ORBextractor.iniThFAST: 20
+ORBextractor.minThFAST: 7
+ORBextractor.nFeatures: 1200
+ORBextractor.nLevels: 8
+ORBextractor.scaleFactor: 1.2
+Stereo.T_c1_c2: !%21opencv-matrix
+  cols: 4
+  data:
+  - 0.8425636595904595
+  - 0.4952996084614957
+  - 0.21157688294192553
+  - -348.0944593418161
+  - -0.4997955391228718
+  - 0.8654121565510223
+  - -0.035583962210337196
+  - 214.29443291220807
+  - -0.20072592909340367
+  - -0.07576342885322607
+  - 0.9767133685160616
+  - 257.03861547504994
+  - 0.0
+  - 0.0
+  - 0.0
+  - 1.0
+  dt: f
+  rows: 4
+Stereo.ThDepth: 60.0
+Stereo.b: 0.07732
+Viewer.CameraLineWidth: 3.0
+Viewer.CameraSize: 0.08
+Viewer.GraphLineWidth: 0.9
+Viewer.KeyFrameLineWidth: 1.0
+Viewer.KeyFrameSize: 0.05
+Viewer.PointSize: 2.0
+Viewer.ViewpointF: 500.0
+Viewer.ViewpointX: 0.0
+Viewer.ViewpointY: -0.7
+Viewer.ViewpointZ: -1.8
+Viewer.imageViewScale: 1.0
